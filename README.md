@@ -23,5 +23,5 @@ Traditional quizzes can be boring or hard to access. This chatbot provides an **
 
 ### 1. Clone the repository
 ```bash
-git clone <[my-repo-url](https://github.com/LeveLisahluma/telegram_chatbot.git)>
+git clone <gh repo clone LeveLisahluma/telegram_chatbot>
 cd <telegram_chatbot>
