@@ -1,7 +1,11 @@
-# Ignore virtual environment
+# Virtual environments
 venv/
 env/
 
 # Python cache
 __pycache__/
 *.pyc
+
+# System files
+.DS_Store
+Thumbs.db
